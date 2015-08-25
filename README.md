@@ -1,5 +1,4 @@
-SUTD Staff Room Maps (old Dover campus)
-=======================================
+<h1>SUTD Staff Room Maps <br>(old Dover campus)</h1>
 
 In the early days of Singapore University of Technology and Design (SUTD), the first ISTD batch had a little project for their 50.001 Introduction to Information Systems and Programming course.
 
@@ -17,4 +16,4 @@ Trying it out
 
 We have uploaded it to the Google Play store:   https://play.google.com/store/apps/details?id=com.vengestudios.sutdstaffroommaps
 
-Alternatively, load the apk file in this project to your android phone.
+Alternatively, you can load the apk file included in this project to your android phone.
