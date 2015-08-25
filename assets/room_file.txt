@@ -1,0 +1,417 @@
+﻿STAFF_ROOM_LEVEL_2[
+R1|0|0||
+R2|Ricky Ang|Associate Professor||
+R3|John Fernandez|Co-Director||
+R4|Katja Hölttä-Otto|Associate Professor||
+R5|Chong Keng Hua|Assistant Professor||
+R6|0|0||
+R7|Colla Massimiliano|Lecturer||
+R8|Ng See Kiong|Associate Professor||
+R9|Yeo Kang Shua|Assistant Professor||
+R10|Stylianos DRITSAS|Assistant Professor||
+R11|Erik Wilhelm|Assistant Professor||
+R12|Yow Wei Quin|Assistant Professor||
+R13|Soh Gim Song|Assistant Professor||
+R14|Tan Mei Chee|Assistant Professor||
+R15|Wu Ping|Associate Professor||
+R16|Yeung Sai Kit|Assistant Professor||
+R17|Mohd Nazry Bin Bahrawi|Lecturer||
+R18|Zhang Chenyu|Visiting Professor||
+R19|Chen Lujie|Assistant Professor||
+R20|Poletti Dario|Assistant Professor||
+R21|Robert Edward Simpson|Assistant Professor||
+R23|0|0||
+R24|Siow Chai Sheng|Chief Investment Officer||
+R25|0|0||
+R26|0|0||
+R27|0|0||
+R28|0|0||
+R29|Giselia Giam|Senior Director||
+R30|Cheryl Lee|Deputy Director||
+R31|Lim Pui Hoon Vernice|Senior Manager||
+R32|Tang Sweet Kook|Assistant Director, Finance||
+R32|Cindy Wang|Assistant Director||
+R33|Joyce Lim|Assistant Director||
+R34|0|0||
+R35|0|0||
+S1|0|0||
+S2|Qiang Xu|Postdoc Researcher||
+S3|Veerappan Chandra Sekar|Research Assistant||
+S4|0|0||
+S5|Loke Kok Leong Desmond|SUTD-MIT Postdoc||
+S6|Jeshua Lin|Intern||
+S7|Connor Smith|Student||
+S8|Teo Ling Kai Terence|Dual Masters Student||
+S9|Yingbin ZHU|Research Assistant, Postdoc||
+S10|Sheng Yang|Research Assistant||
+S11|Dong Weiling|Research Assistant||
+S12|Liu Fuchang|Postdoc||
+S13|Chong Wan Ling|Dual Masters Student||
+S14|Cheng Wei-Chen|Postdoctoral Research Fellow||
+S15|Hoai Vu Pham|Research Assistant||
+S16|Wang Yanchao|Research Assistant||
+S17|Ding Weiao|Research Assistant||
+S18|Ji Ma|Visiting Student||
+S19|Zheng Jia|Research Assistant||
+S20|Dawn Chia|Manager||
+S21|Monica Laurence Sumianto|Adminstrative Officer ||
+S22|Ferninda Patrycia|Research Assistant||
+S23|Thommen George|PhD Student||
+S24|LIU Cong|Visiting Student||
+S25|Spencer Xiao|Researcher||
+S26|Ding Jiatao|Research Assistant||
+S27|Hung Wan-Yu|Postdoc Researcher||
+S28|Mushtaq Ahmed Sobhan|Postdoc Researcher||
+S29|Kelvin Ooi Jian Aun|Research Assistant, Postdoc||
+S30|Li Xiaoqian|Research Assistant||
+S31|Magdeline Tan|Executive||
+S32|Wu Yongzheng|Postdoc Researcher||
+S33|Lim yong Chau|0||
+S34|Kim Hsieh|SUTD-MIT Postdoc||
+S35|To Kien|Senior Research Scientist||
+S36|Ying Shaodong|Research Assistant||
+S37|Vadym Kulish|0||
+S38|Viswanath|Postdoc Researcher||
+S39|Xu Wenji|Teaching Assistant (ESD)||
+S40|Shafigh Mehraeen|SUTD-MIT Postdoc||
+S41|Anna Ellen Chan|Teaching Assistant (ESD)||
+S42|Qian Neng|Teaching Assistant (ESD)||
+S43|0|0||
+S44|Bernard Tay|Assistant Director||
+S45|Kenneth Tan|Assistant Manager||
+S46|Li Jiangtao|Teaching Assistant (ESD)||
+S47|Santiago Ortega Avila|Research Assistant||
+S48|Edson Hiroshi Aoki|Research Assistant||
+S49|Douglas Allaire|Research Scientist (MIT)||
+S50|Peng Yao|Student||
+S51|Raina Lim|Research Assistant||
+S52|Liu Xiaohui|Intern||
+S53|Randy Ho|Research Assistant||
+S54|Kueh Tom Jeremie|Research Assistant||
+S55|Caroline Chee|Assistant Manager||
+S56|Serene Lum|Assistant Manager||
+S57|Elaine Ker|Contract Staff||
+S58|Foo Hui Ling Joyce|AP||
+S59|Celeste Seow|0||
+S60|Vuong Chi Nhan, James|0||
+S61|Jacqueline Sng Yee Gek|Associate, Finance||
+S62|Finance|0||
+S63|Yap Chin Chin|Accountant, AP & Fixed Asset||
+S67|Irene Chan Mee Lee|Assistant Manager, Treasury||
+S68|Sandy Koh Lay Tin|Manager, Finance||
+S69|Jane Wee Soo Mei|Associate, Accounts Payable
+]
+
+STAFF_ROOM_LEVEL_3[
+R1|Jean Yong|Associate Professor||
+R2|Tan U-Xuan|Lecturer||
+R3|Andres Sevtsuk|Assistant Professor||
+R4|Larry Sass|Visiting Professor||
+R5|Hyowon Lee|Assistant Professor||
+R6|Elica Kyoseva|Assitant Professor||
+R7|Samson Lim|Assistant Professor||
+R8|Pang Yang Huei|Lecturer||
+R9|Sarah Norman|Senior Teaching Fellow||
+R10|Sun Jun|Assistant Professor||
+R11|Ricardo Sosa|Assistant Professor||
+R12|Yuen Chau|Assistant Professor||
+R13|Jason Gu|Assistant Professor||
+R14|Dawn Koh Chin-Ing|Lecturer||
+R15|Casey Hammond|Lecturer||
+R16|0|0||
+R17|Lui Siu Hang Simon|Assistant Professor||
+R19|James Rowlins|Lecturer||
+R20|Zhu Yajuan|Lecturer||
+R21|Mohan Rajesh Elara|Lecturer||
+R22|Dawn Tan|Assistant Professor||
+R23|Kevin Otto|Associate Professor||
+R24|Chen Jia Jia|Lecturer||
+R25|Stefan Schäfer|Professor||
+R26|Lu Wei|Assistant Professor||
+R27|Grace Dixon|Lecturer||
+R28|0|0||
+R29|Gim Yang (Maggie) Pee|Lecturer||
+R30|Kwan Wei Lek|Lecturer||
+R31|Chen Xiaoming|Visiting Professor||
+R32|Chandrima Chatterjee|Lecturer||
+R33|Teo Tee Hui|Lecturer||
+R34|Zhou Yi|Lecturer||
+R35|Thomas Schroepfer|Associate Professor||
+R36|Suranga Chandima Nanayakkara|Assistant Professor||
+R37|Nilanjan Raghunath|Lecturer||
+R38|Yang Hui Ying|Assistant Professor||
+R39|Foong Shaohui|Assistant Professor||
+R40|Cheah Chin Wei|Senior Lecturer||
+R41|Anariba Franklin Edwin|Lecturer||
+R42|Lakshminarasimhan Krishnaswamy|Lecturer||
+R43|Jeffrey Huang|Professor and HoP||
+R44|Kris Wood|Professor, HoP and IDC Co-Director||
+R45|Tan Mei Xuan|Senior Teaching Fellow||
+R46|Bige Tuncer|Associate Professor||
+R49|Koh Mei Hua|English Specialist||
+R50|WU Chunfeng|Lecturer||
+R51|Budiman Arief|Assistant Professor||
+R52|Rajesh Chandramohanadas|Assistant Professor||
+R53|0|0||
+R54|Roland Bouffanais|Assistant Professor||
+R55|Paolo Di Leo|Lecturer||
+R56|Sawako KAIJIMA|Assistant Professor||
+R57|Apple Koh Li Ling|Lecturer||
+R58|Shubhakar|Senior Teaching Fellow||
+R59|Yow Wei Quin (experiment)|0||
+R60|Zhao Rong|Associate Professor||
+R61|Philip Truscott|Senior Lecturer||
+R62|Erwin Viray|Visiting Professor||
+R63|Joseph Fitzsimons|Assistant Professor||
+R64|Low Hong Yee|Associate Professor||
+R66|Florence Yoo|Senior Counsellor||
+R67|Sim Yih Shyang, Andy|Student Counsellor||
+S1|Mark VanderMeulen|Student||
+S2|Valagerahally Puttaswamy Srinivasu|Postdoctoral Research Fellow||
+S3|Ng Geok See|Senior Lecturer (Adjunct)||
+S4|Hoe Oi Leng Christine|English Teacher||
+S5|Lee Kah Wee, Chu Thi Thu Trang?|Lab Manager||
+S6|Mitchell Krogman|Dual Masters' (MFG)||
+S7|Zhou Changjiu|Adjunct Professor||
+S8|Lap Chan|Adjunct Professor||
+S9|Gao Hui|Research Assistant, Postdoc||
+S10|Shanaka Ransiri|Research Engineer||
+S11|Zhang Jun|Postdoc||
+S12|Teo Wan Ting|Executive, Administration||
+S13|Wang Ye|Research Assistant||
+S14|He Liang|Postdoc Researcher||
+S15|Chong Sok Yen|Administration Officer||
+S16|Huang Shisheng|Postdoc Researcher||
+S17|KONG Linghe|Postdoc||
+S18|Wong Wei San|Research Assistant||
+S19|Linh Hoang|Visiting Student||
+S20|Heng Ming Yuan|Research Technician||
+S21|Huang Kejie|Research Assistant||
+S22|Chew Yongjing|Research Assistant||
+S23|Wang Manman|Research Assistant||
+S24|LU Banghui|Visiting Student||
+S25|Siyu Lin|Postdoc||
+S26|Yu Jun|Visiting Student||
+S27|David Song Chaoyang|Research Assistant||
+S28|Sun Zhenglong|Research Assistant, Postdoc Research Fellow||
+S29|Liu Yi|Research Assistant||
+S30|Dong Zheng|Research Assistant||
+S31|Song Wentu|Research Assistant||
+S32|Wong Jen It|Project Officer||
+S33|Ren Yuan|Visiting Student||
+S34|Long Cheng|Research Assistant||
+S35|Ku Xuefang|Visiting Student||
+S36|Qian Yang|Research Assistant||
+S37|Xu Qinqi|Research Assistant||
+S38|Shi Yu Meng|Postdoc Researcher||
+S39|Dushyanth Madhavan|Research Assistant||
+S40|Ouyang Yingkai|Postdoctoral Research Fellow||
+S41|Tan Tian Huat|Research Assistant||
+S42|Sally Yon|Executive||
+S43|Huang Shaoying|SUTD-MIT Postdoc||
+S44|Fu Cuen Cuen|Executive, Administration||
+S45|Werry Iain Philip|Postdoctoral Research Fellow||
+S46|Lee Chung|Postdoctoral Research Fellow||
+S47|Nadia Binte Johari|Assistant Manager, Pillar Administration||
+S48|Lee Kah Wee|Lab Manager||
+S49|Khew Yu Nong|Research Scientist||
+S50|Tomas Ho Yuen Ka|Associate Program Director||
+S51|Lee Lay Tin|Associate Program Director||
+S52|Alexander Franz Cornelius|Research Scientist||
+S53|Thomas Wortmann|Research Scientist||
+S54|Aloysius Lian|Research Scientist||
+S55|Hou Longfei|Visiting Student||
+S56|Yeo Kian Peen|Research Engineer||
+S57|Sunardi|Research Technician||
+S57|Wang Lijuan|Research Technician||
+S58|Shang Yilun|Postdoc Researcher||
+S59|Hou Dongshuang|Postdoctoral Research Fellow||
+S60|Victoria Gerrard|Research Engineer||
+S61|Peter Jun Jung Hyun|Postdoc||
+S62|Ding Shuoyu|Research Assistant||
+S63|Loo Chia Hui Debbie|Postdoc Research Fellow||
+S64|Wang Ting|Postdoc Research Fellow||
+S65|George Chen|Research Assistant||
+S66|Luc Marechal|Postdoc||
+S67|Zhu Xiaoying|SUTD-MIT Postdoc||
+S68|Modurpalayam Subramanian Selvasurenhiran|Research Assistant||
+S69|Roshan Peiris|Research Assistant||
+S70|Mohammad Komareji|Postdoc Researcher||
+S71|Alexander Oleksandr Zhukov|Postdoc Researcher||
+S72|Jianmin Sun|Postdoc Researcher||
+S73|Zhang Shaojie|RA|Postdoc||
+S74|Asami|Teaching Assistant||
+S75|Dau Son Hoang|Postdoc Research Fellow
+]
+STAFF_ROOM_LEVEL_4[
+R1|Haoliang Qi|Visiting Professor||
+R2|Tony Quek|Assistant Professor||
+R3|Luo Jianxi|Assistant Professor||
+R4|Oka Kurniawan|Lecturer||
+R5|Marco Scarsini|Professor||
+R6|Eng Ying Bong|Senior Teaching Fellow||
+R7|Oliver Heckmann|Assistant Professor||
+R8|Das Bikramjit|Assistant Professor||
+R9|0|0||
+R10|Zhenxing ZHAO|Senior Teaching Fellow||
+R11|Subhajit Datta|Lecturer||
+R12|Andrea Castelletti|Professor||
+R12|Lynette Cheah Wan Ting|Assistant Professor||
+R13|Joel Yang|Assistant Professor||
+R14|Anders Yeo|Visiting Professor||
+R15|Sergey Kusharev|Lecturer||
+R16|Yoong Cheah Huei Andrew|Senior Lecturer||
+R17|0|0||
+R18|0|0||
+R19|Gu Feng James WAN|Assistant Professor||
+R20|Axel Pavillet|Senior Lecturer||
+R21|Lee Chee Huei|Lecturer||
+R22|Loh Kok Keong Peter|Senior Lecturer||
+R23|Avinash Baji|Assistant Professor||
+R24|Bellam Sreenivasulu|Lecturer||
+R25|Michael Damon Reid|Lecturer||
+R26|Ye Ai|Assistant Professor||
+R27|Marcus ANG Teck Meng|Lecturer||
+R28|Ong Eng Shi|Lecturer||
+R29|Duan Ling Jie|Assistant Professor 	||
+R30|Zhang Yue|Assistant Professor||
+R31|Foo Yu Chiann|Associate Pillar Head||
+R32|Giacomo Nannicini|Assistant Professor||
+R33|Selin Damla Ahipasaoglu|Assistant Professor||
+R34|Padilla Michael|Assistant Professor||
+R35|Chen Zaichun Herman|Senior Teaching Fellow||
+R36|Abu Samah Zuruzi|Senior Lecturer	||
+R37|0|0||
+R38|Mihye Cho|Assistant Professor||
+R39|B. Reginald Thio|Assistant Professor||
+R40|Natatajan Karthik|Associate Professor||
+R41|TANERI Niyazi|Assistant Professor||
+R42|Justin Ruths|Assistant Professor||
+R43|Aditya Mathur|Professor and HoP||
+R44|Saif Benjaafar|Professor and HoP||
+R45|Yang Shengyuan|Assistant Professor||
+R46|Stefano Galelli|Assistant Professor||
+R47|Christian Löwenstein|Assistant Professor||
+R48|Manuel Clavel|visiting Professor||
+R49|Quansheng GUAN|Assistant Professor||
+R50|Shrutivandana Sharma|Assistant Professor||
+R51|0|0||
+R52|0|0||
+R53|0|0||
+R54|Nilanjan Roy|Assistant Professor||
+R55|Yunjian XU|Assistant Professor||
+R56|Alastair Gornall|Senior Teaching Fellow||
+R57|David Yau|Professor||
+R58|Ho Seng Tiong |Professor||
+R59|0|0||
+R60|Costas Courcoubetis|Professor||
+R61|0|0||
+R62|0|0||
+R63|RESERVED Nov - Wei Lu|visiting Professor||
+R64|RESERVED Nov - Min Sheng|visiting Professor||
+R65|0|0||
+R66|0|0||
+R67|0|0||
+S1|Rowan Wang|Research Assistant||
+S2|David Chen|Research Assistant||
+S3|0|0||
+S4|0|0||
+S5|Pauline Ang |Adjunct Assistant Professor||
+S6|Jackson Tan|Adjunct Assistant Professor||
+S7|Keith Goh|Adjunct Assistant Professor||
+S8|Kee Wei Hui|Adjunct Assistant Professor||
+S9|Limmanee Athipat|Postdoctoral Research Fellow||
+S10|Stella Kounelaki|MIT Graduate Fellow/5th Row Leadership Programme||
+S11|Lennard Ong Ee Wen|TA||
+S12|Kyunghoon Lee|Research Scientist||
+S13|Lei Nuo|Visiting Student||
+S14|Ludovica Beltrame|Student||
+S15|Daniele Carbonin|Student||
+S16|Gherghina Cristian Andrei|Postdoctoral Research Fellow||
+S17|Lipeng Lai|Graduate Fellow||
+S18|Wen Huang|Research Fellow||
+S19|Marco Maso|Postdoc Researcher||
+S20|0|0||
+S21|Jemin Lee|Postdoc Researcher||
+S22|Ghosh Supratim|Postdoctoral Research Fellow||
+S23|Jesus de la Cruz|Research Assistant||
+S24|Matthias Wildemeersch|Visiting Student||
+S25|Jacek Gosciniak|Postdoc Fellow||
+S25|Kai Song|Visiting Student||
+S26|Rojas Libreros Nicolas Enrique|Postdoc Research Fellow||
+S27|Trochidis Konstantinos|Postdoctoral Research Fellow||
+S28|Nicole Chen|Research Assistant||
+S29|Clara Tan Cher Lin|Research Assistant||
+S30|Chen Xi|Research Assistant||
+S31|Rudabeh Meskarian|Postdoctoral Research Fellow||
+S32|Suharni Mohd Sani|Administrative Officer ||
+S33|Hartini Binte AB Ghani|Website Content Manager ||
+S34|Aaron Angelo Vicuna|System Administrator and Webmaster ||
+S35|Chuah Seong Ping|Research Assistant||
+S36|Mohamed Hameem Mohamed Hamzeen|Research Assistant||
+S37|Zhu Yunguang|Research Assistant||
+S38|Arroyo Emmanuelle|Postdoctoral Research Fellow||
+S39|Alberto Costa|Postdoc Research Fellow||
+S40|Giedre Sabaliauskaite|Postdoc Researcher||
+S41|Thanh-Toan Do|Postdoctoral Research Fellow (Ngai-man cheung)||
+S42|Irmanis Adiana Binte Abdullah|Personal Assistant ||
+S43|Xu Xinliang|SUTD-MIT Postdoc ||
+S44|Haw Chiou Yen, Freya|Executive, Administration||
+S45|Angela Yong Mei Lin|Executive, Administrative ||
+S46|S Sivanesan|Consultant, Internal Audit||
+S46|Angeline Yeow Siat Teng|Officer, Administration||
+S46|Cynthia Tay Mei Ling|Associate, Administration||
+S47|Nurasyikin Binte Mansor |Administrative Officer||
+S48|Jing Hui Toh|ISTD Technologist||
+S49|Ng Yan Yun Evangeline|Research Engineer||
+S50|Tao YuXuan|Asst Manager, IRB||
+S50|Eva Chong Yee Feng|Senior Manager, IA||
+S51|LEE CHIN ANN IVAN|ASSOCIATE PROGRAMME DIRECTOR, ISTD||
+S52|Cary Chan Hiang Seng|Associate Programme Director, ESD||
+S53|Li Xiang|Research Assistant||
+S54|Felice Peck Hwee Juin|UG Manager, ISTD||
+S55|Afian Anwar|Senior Research Engineer||
+S56|Johnson Ng|Adjunct Professor||
+S57|Giacomo della Chiara|PhD student||
+S58|Harald Berhard|PhD student||
+S59|Yufei Yang|PhD student||
+S60|Ozge Tuncel|PhD student||
+S61|Giorgio Sartor|PhD student||
+S62|Thomopulos Dimitri|Research Assistant||
+S63|Nikolaos Pnevmatikos|Teaching Assistant (ESD)||
+S64|0|0||
+S65|Hans Mikkel Anderson|PhD student||
+S66|Li Jiaying|PhD student||
+S67|0|0||
+S68|Dong Fei|PhD student||
+S69|Zhou Yiren|PhD student||
+S70|Tan Wei Chit|PhD student||
+S71|Kin Wah Edward Lin|PhD student||
+S72|Wang Jingyi|PhD student||
+S73|Hao Yang|PhD student||
+S74|Li Jiaying|PhD student||
+S75|Vo Duy Tin|PhD student||
+S76|Qiang Xu|Postdoc Researcher
+]
+MEETING_ROOM_LEVEL_2[
+MR2-1|Meeting Room 2-1||
+MR2-2|Meeting Room 2-2||
+MR2-3|Meeting Room 2-3||
+MR2-?|Meeting Room
+]
+MEETING_ROOM_LEVEL_3[
+MR3-1|Meeting Room 3-1||
+MR3-2|Meeting Room 3-2||
+MR3-3|Meeting Room 3-3||
+MR3-4|Meeting Room 3-4||
+MR3-5|Meeting Room 3-5||
+MR3-6|Meeting Room 3-6
+]
+MEETING_ROOM_LEVEL_4[
+MR4-1|Meeting Room 4-1||
+MR4-2|Meeting Room 4-2||
+MR4-3|Meeting Room 4-3||
+MR4-4|Meeting Room 4-4||
+MR4-5|Meeting Room 4-5||
+MR4-6|Meeting Room 4-6
+]

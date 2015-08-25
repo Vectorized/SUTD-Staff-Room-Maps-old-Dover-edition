@@ -1,0 +1,24 @@
+﻿body {
+	margin: 0;
+	padding: 0;
+	background: #EFEBE7;
+	color:#4E382C;
+}
+#container {
+	font-family: sans-serif;
+	position:relative; 
+	margin:55px 14px 0 14px;
+	font-size:18px;
+}
+p{
+	margin: 0 0 15px 0;
+}
+.suggestion {
+	margin: 20px 12px 12px 58px;
+	text-decoration:underline;
+	color:#AD4947;
+}
+#bottom_spacing {
+	height:55px;
+	width:30px;
+}
