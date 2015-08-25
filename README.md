@@ -1,4 +1,4 @@
-<h1>SUTD Staff Room Maps <br>(old Dover campus)</h1>
+<h1>SUTD Staff Room Maps <br>(old Dover campus) </h1>
 
 In the early days of Singapore University of Technology and Design (SUTD), the first ISTD batch had a little project for their 50.001 Introduction to Information Systems and Programming course.
 
